@@ -50,3 +50,4 @@ builds/**/images/*
 *.pem
 *.xxjson
 /01_getting_started/
+/02_pakage/
