@@ -49,3 +49,4 @@ builds/**/images/*
 # security / ssl
 *.pem
 *.xxjson
+/01_getting_started/
