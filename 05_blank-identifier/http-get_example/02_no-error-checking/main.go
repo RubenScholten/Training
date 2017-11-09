@@ -13,3 +13,5 @@ func main() {
 
 	fmt.Printf("%s", page)
 }
+
+// No error checking

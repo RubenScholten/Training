@@ -20,3 +20,5 @@ func main() {
 		}
 	fmt.Printf("%s", page)
 }
+
+// With error checking
